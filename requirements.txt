@@ -34,3 +34,4 @@ torchtext
 tqdm==4.67.1
 transformers==4.47.1
 trimesh==3.9.24
+smplx
